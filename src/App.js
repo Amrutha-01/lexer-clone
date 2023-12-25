@@ -22,7 +22,7 @@ export default function App() {
               />
             }
           ></Route>
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/lexer-clone" element={<Dashboard />} />
         </Routes>
       </Router>
     </div>

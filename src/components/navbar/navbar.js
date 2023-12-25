@@ -79,7 +79,7 @@ export default function NavBar() {
               <img src={logo} alt="logo"/>
             </ListItem>
             <ListItem>
-              <Link to="/" style={{textDecoration:'none',color:'white'}}>
+              <Link to="/lexer-clone" style={{textDecoration:'none',color:'white'}}>
               <ListItemText primary="Dashboard" />
               </Link>
             </ListItem>
